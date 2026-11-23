@@ -1,0 +1,8 @@
+transformers<5
+torch
+gradio==5.50.0
+huggingface-hub>=0.34,<1.0
+sentencepiece
+sacremoses
+pillow
+imageio-ffmpeg
